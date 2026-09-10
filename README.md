@@ -1,16 +1,20 @@
-## Hi there 👋
+# hello, i'm ulyana
 
-<!--
-**novikovaula007-rgb/novikovaula007-rgb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+computer science and engineering student at NUST MISIS; focused on **full-stack development**.
 
-Here are some ideas to get you started:
+## 🚀 tech stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### frontend
+* **core:** javascript (ES6+), typescript
+* **frameworks:** react.js, next.js, HTML5 & CSS3
+* **styling & ui:** tailwind CSS, shadcn UI, material UI
+
+### backend & databases
+* **server-side:** node.js, express.js
+* **languages:** python
+* **databases:** postgreSQL, mongoDB, redis, mySQL
+
+### tools & devops
+* **version control:** git & github
+* **build tools:** vite, webpack
+* **deployment:** docker
